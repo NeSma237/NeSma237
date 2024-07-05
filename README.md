@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeSma237
-- 👀 I’m interested in programming and desiging
+- 👀 I’m interested in programming and designing
 - 🌱 I’m currently learning python
 - 📫 How to reach me linkedin.com/in/nesma-nasser-aa848a307 or nesmanasser162@gmail.com
 
