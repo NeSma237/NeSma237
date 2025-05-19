@@ -42,7 +42,7 @@ I’m a passionate developer and tech enthusiast. I love coding, learning new te
 ## ⚡️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NeSma237&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
@@ -50,9 +50,8 @@ I’m a passionate developer and tech enthusiast. I love coding, learning new te
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nesma-nasser-aa848a307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nesmanasser162@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
