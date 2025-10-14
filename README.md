@@ -27,4 +27,4 @@ Always curious, always learning.🌱
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Nesma Nasser</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">Nesma Nasser</a> Email: nesmanasser@gmail.com</p>
