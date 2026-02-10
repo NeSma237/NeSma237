@@ -1,9 +1,11 @@
 ## About Me
 
-I’m **Nesma**, a passionate **developer** and **machine learning enthusiast** who loves turning ideas into real projects!  
-I enjoy working with data, AI, and modern web technologies.  
-Currently exploring **Computer Vision** and **Deep Learning** to build smarter systems.  
-Always curious, always learning.🌱
+Hi! I'm **Nesma** 👋  
+I’m an Intelligent Systems student with a strong interest in Artificial Intelligence and Computer Vision.  
+I enjoy building machine learning and deep learning models, both from scratch and using transfer learning, and applying them to real-world problems.
+
+I’ve worked on projects in image classification, medical image analysis, and pattern recognition, and I’m always eager to learn new technologies and improve my problem-solving skills.
+Fun fact: I’ve spent more time tuning hyperparameters than choosing my profile picture 🤖📸
 
 ## My Skills
 
